@@ -3,7 +3,7 @@
 # <h1 align="center"> 💻 Ola Mundo, esse é meu GitHub 🖱️  </h1> <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Bruno+Bichão;Tenho+29+anos;Sou+de+Paulista/PE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Bruno+Bichão;Tenho+29+anos;Moro+Em+Paulista-PE)](https://git.io/typing-svg)
 
 ## 📚 Esse é meu status como estudante de Analise e desenvolvimento de sistemas 💻
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoBichao&theme=github_dark&bg_color=000&border_color=32CD32&show_icons=true&icon_color=32CD32&title_color=32CD32&text_color=32CD32)
