@@ -28,7 +28,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
-
+<img align="right" width="" height="75" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJ5NDR5NWE0MWRtMXF4cng1dnZudGk2em1iaWtuaGtubHV5bXFnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owzW5c1tPq63MPmWk/giphy.gif"/>
   
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
